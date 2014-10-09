@@ -7,8 +7,7 @@ Sanctuary Website Files
 
 1. Install [Node.js](http://nodejs.org/download)
 2. Install [MongoDB](http://www.mongodb.org/downloads)
-3. Install [KeystoneJS](http://keystonejs.com/getting-started/)
-	* Run "npm install -g generator-keystone"
+3. Run "npm install -g generator-keystone" to install [KeystoneJS](http://keystonejs.com/getting-started/)
 4. Run "git clone https://github.com/justathoughtor2/sanctuary"
 5. Run "cd sanctuary"
 6. Run "npm install"
